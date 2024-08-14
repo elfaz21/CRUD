@@ -113,7 +113,7 @@ const CreatePage = () => {
           {!isLoading && (
             <button
               type="submit"
-              className="inline-block bg-blue-700 text-white rounded-md px-4 py-2 font-semibold hover:bg-blue-800"
+              className="inline-block bg-black text-white rounded-md px-4 py-2 font-semibold hover:bg-gray-800"
             >
               Create Product
             </button>

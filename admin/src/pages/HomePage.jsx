@@ -28,7 +28,7 @@ const HomePage = () => {
       <div>
         <Link
           to={"/create"}
-          className="inline-block mt-4 shadow-md bg-red-500 rounded-sm px-4 py-2 text-white font-bold hover:bg-red-600 mx-5 hover:cursor-pointer"
+          className="inline-block mt-4 shadow-md bg-black rounded-sm px-4 py-2 text-white font-bold hover:bg-gray-600 mx-5 hover:cursor-pointer"
         >
           Create a product
         </Link>
